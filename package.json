@@ -1,0 +1,54 @@
+{
+  "name": "larkplayer-vr",
+  "title": "larkplayer-vr",
+  "description": "larkplayer vr plugin",
+  "main": "lib/larkplayer-vr.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dblate/larkplayer-vr",
+  "author": {
+    "name": "2222bnting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dblate/larkplayer-vr.git"
+  },
+  "keywords": [
+    "vr",
+    "360 video",
+    "360 image",
+    "larkplayer",
+    "javascript",
+    "player",
+    "html5"
+  ],
+  "bugs": {
+    "url": "https://github.com/dblate/larkplayer-vr/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es3": "^1.0.1",
+    "babelify": "8.0.0",
+    "browserify": "14.5.0",
+    "browserify-shim": "^3.8.14",
+    "grunt": "1.0.1",
+    "grunt-babel": "7.0.0",
+    "grunt-browserify": "5.2.0",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-jshint": "1.1.0",
+    "grunt-contrib-less": "1.4.1",
+    "grunt-contrib-uglify": "3.2.1",
+    "grunt-contrib-watch": "1.0.0"
+  },
+  "browserify-shim": {
+    "larkplayer": "global:larkplayer"
+  },
+  "dependencies": {
+    "kaleidoscopejs": "^1.0.17",
+    "larkplayer": "^1.4.5",
+    "object-assign": "^4.1.1"
+  }
+}
