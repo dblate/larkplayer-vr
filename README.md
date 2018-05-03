@@ -39,7 +39,7 @@ npm install larkplayer-vr
     </style>
 </head>
 <body>
-    <video id="video-el" src="./daban.mp4" loop></video>
+    <video id="video-el" src="https://dblate.github.io/larkplayer-vr/examples/mp4" loop></video>
 
     <script type="text/javascript" src="https://unpkg.com/larkplayer@latest/dist/larkplayer.js"></script>
     <script type="text/javascript" src="https://unpkg.com/larkplayer-vr@latest/dist/larkplayer-vr.js"></script>
