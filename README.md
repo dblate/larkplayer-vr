@@ -5,6 +5,8 @@
 * 基于 [kaleidoscope](https://github.com/thiagopnts/kaleidoscope) 开发
 * pc 端通过鼠标拖拽转动视频角度
 * 移动端通过手势拖拽转或晃动手机改变视频角度
+* [mp4 在线示例](https://dblate.github.io/larkplayer-vr/examples/mp4)
+* [hls 在线示例](https://dblate.github.io/larkplayer-vr/examples/hls)
 
 ## 下载
 
