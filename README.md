@@ -2,6 +2,8 @@
 
 [larkplayer](https://github.com/dblate/larkplayer) 插件，用于播放 360º 全景视频
 
+<img src="./examples/images/vr.gif"/>
+
 * 基于 [kaleidoscope](https://github.com/thiagopnts/kaleidoscope) 开发
 * pc 端通过鼠标拖拽转动视频角度
 * 移动端通过手势拖拽转或晃动手机改变视频角度
