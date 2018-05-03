@@ -88,6 +88,8 @@ __移动端__
 * chrome
 * safari
 
+360 videos doesn't work in Safari, IE 11, Microsoft Edge, Android and iOS if the video is served from a different domain, due some [CORS implementation bugs](https://bugs.webkit.org/show_bug.cgi?id=135379).
+
 # License
 
 MIT
