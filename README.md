@@ -96,4 +96,4 @@ __移动端__
 
 # License
 
-MIT
+larkplayer-vr is under [MIT LICENSE]('./LICENSE)
